@@ -12,5 +12,6 @@ A documentation repository which provides links to a variety of development reso
 - [Gitbook](https://app.gitbook.com/)
 
 ## Icons / Images
-- [RemixIcon](https://github.com/Remix-Design/remixicon#usage) ([Website](https://remixicon.com/))
+- [Complkete list of github markdown emojis](https://gist.github.com/Ragdata/6a38d26e4bcfb258881e9587de6f068f)
 - [Devicons](https://github.com/vorillaz/devicons) ([Website](http://vorillaz.github.io/devicons/#/main))
+- [RemixIcon](https://github.com/Remix-Design/remixicon#usage) ([Website](https://remixicon.com/))
