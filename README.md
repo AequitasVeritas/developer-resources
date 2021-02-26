@@ -8,6 +8,9 @@ A documentation repository which provides links to a variety of development reso
 - [Easy Monorepo](https://github.com/eonx-com/easy-monorepo) ([Website](https://packages.eonx.com/))
 - [Outline - Markdown Editor](https://github.com/outline/rich-markdown-editor) ([Website](https://www.getoutline.com/))
 
+## Hosting Resources
+- [Gitbook](https://app.gitbook.com/)
+
 ## Icons / Images
 - [RemixIcon](https://github.com/Remix-Design/remixicon#usage) ([Website](https://remixicon.com/))
 - [Devicons](https://github.com/vorillaz/devicons) ([Website](http://vorillaz.github.io/devicons/#/main))
